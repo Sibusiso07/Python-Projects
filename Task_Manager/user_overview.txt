@@ -1,0 +1,5 @@
+The total number of assigned tasks to the user is: 2
+The percentage of the tasks assigned to the user is: 100.0 percent. 
+The percetage of the completed user tasks is: 50.0 percent. 
+The percetage of the uncompleted user tasks is: 50.0 percent. 
+The user tasks that are uncompleted and overdue percentage is: 50.0 percent.
