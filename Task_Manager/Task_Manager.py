@@ -23,7 +23,7 @@ def main_menu():
         if user_name != "admin":
             print("\n")
             menu = input('''Select one of the following Options below:
-        r - Registering a user
+        # r - Registering a user
         a - Adding a task
         va - View all tasks
         vm - View my task
